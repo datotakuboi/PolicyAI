@@ -1,0 +1,47 @@
+AUTO INSURANCE POLICY SUMMARY
+
+Policy Number: SAMPLE-12345
+Policy Period: 01/01/2024 - 12/31/2024
+Insured: John Doe
+Vehicle: 2020 Honda Civic
+
+COVERAGE DETAILS:
+
+LIABILITY COVERAGE:
+- Bodily Injury: $100,000 per person / $300,000 per accident
+- Property Damage: $50,000 per accident
+
+COLLISION COVERAGE:
+- Deductible: $1,000
+- Actual Cash Value
+
+COMPREHENSIVE COVERAGE:
+- Deductible: $500
+- Actual Cash Value
+
+UNINSURED MOTORIST:
+- Bodily Injury: $25,000 per person / $50,000 per accident
+
+UNDERINSURED MOTORIST:
+- Bodily Injury: $25,000 per person / $50,000 per accident
+
+MEDICAL PAYMENTS:
+- $2,000 per person
+
+RENTAL REIMBURSEMENT:
+- $40 per day, maximum 30 days
+
+ROADSIDE ASSISTANCE:
+- Included
+
+PREMIUM INFORMATION:
+- Monthly Premium: $185.00
+- Annual Premium: $2,220.00
+- Payment Method: Monthly automatic payment
+
+ADDITIONAL FEATURES:
+- Accident Forgiveness
+- New Car Replacement
+- Vanishing Deductible
+
+This policy provides comprehensive protection for your vehicle and meets state minimum requirements. 

@@ -1,0 +1,39 @@
+AUTO INSURANCE POLICY - BASIC COVERAGE
+
+Policy Number: TEST-BASIC-001
+Policy Period: 01/01/2024 - 12/31/2024
+Insured: Jane Smith
+Vehicle: 2015 Toyota Camry
+
+COVERAGE SUMMARY:
+
+LIABILITY COVERAGE:
+- Bodily Injury: $25,000 per person / $50,000 per accident
+- Property Damage: $25,000 per accident
+
+COLLISION COVERAGE:
+- Deductible: $1,000
+- Actual Cash Value
+
+COMPREHENSIVE COVERAGE:
+- Deductible: $1,000
+- Actual Cash Value
+
+UNINSURED MOTORIST:
+- Bodily Injury: $25,000 per person / $50,000 per accident
+
+MEDICAL PAYMENTS:
+- $1,000 per person
+
+RENTAL REIMBURSEMENT:
+- $25 per day, maximum 30 days
+
+ROADSIDE ASSISTANCE:
+- Not included
+
+PREMIUM INFORMATION:
+- Monthly Premium: $120.00
+- Annual Premium: $1,440.00
+- Payment Method: Monthly automatic payment
+
+This is a basic policy with state minimum coverage requirements. 

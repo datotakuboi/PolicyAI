@@ -1,0 +1,42 @@
+STANDARD AUTO INSURANCE POLICY
+
+Policy Number: TEST-AVERAGE-003
+Policy Period: 01/01/2024 - 12/31/2024
+Insured: Sarah Wilson
+Vehicle: 2020 Honda CR-V
+
+COVERAGE SUMMARY:
+
+LIABILITY COVERAGE:
+- Bodily Injury: $50,000 per person / $100,000 per accident
+- Property Damage: $25,000 per accident
+
+COLLISION COVERAGE:
+- Deductible: $500
+- Actual Cash Value
+
+COMPREHENSIVE COVERAGE:
+- Deductible: $500
+- Actual Cash Value
+
+UNINSURED MOTORIST:
+- Bodily Injury: $25,000 per person / $50,000 per accident
+
+MEDICAL PAYMENTS:
+- $1,000 per person
+
+RENTAL REIMBURSEMENT:
+- $30 per day, maximum 30 days
+
+ROADSIDE ASSISTANCE:
+- Included
+
+ADDITIONAL FEATURES:
+- Accident Forgiveness (after 3 years)
+
+PREMIUM INFORMATION:
+- Monthly Premium: $150.00
+- Annual Premium: $1,800.00
+- Payment Method: Monthly automatic payment
+
+This policy represents typical US average coverage and premium levels. 

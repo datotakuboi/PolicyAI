@@ -1,0 +1,49 @@
+PREMIUM AUTO INSURANCE POLICY
+
+Policy Number: TEST-PREMIUM-002
+Policy Period: 01/01/2024 - 12/31/2024
+Insured: Michael Johnson
+Vehicle: 2023 Tesla Model 3
+
+COVERAGE DETAILS:
+
+LIABILITY COVERAGE:
+- Bodily Injury: $500,000 per person / $1,000,000 per accident
+- Property Damage: $100,000 per accident
+
+COLLISION COVERAGE:
+- Deductible: $250
+- Replacement Cost
+
+COMPREHENSIVE COVERAGE:
+- Deductible: $250
+- Replacement Cost
+
+UNINSURED MOTORIST:
+- Bodily Injury: $500,000 per person / $1,000,000 per accident
+
+UNDERINSURED MOTORIST:
+- Bodily Injury: $500,000 per person / $1,000,000 per accident
+
+MEDICAL PAYMENTS:
+- $10,000 per person
+
+RENTAL REIMBURSEMENT:
+- $75 per day, maximum 60 days
+
+ROADSIDE ASSISTANCE:
+- Included with unlimited towing
+
+ADDITIONAL COVERAGES:
+- Gap Insurance
+- New Car Replacement
+- Accident Forgiveness
+- Vanishing Deductible
+- Glass Coverage
+
+PREMIUM INFORMATION:
+- Monthly Premium: $350.00
+- Annual Premium: $4,200.00
+- Payment Method: Monthly automatic payment
+
+This premium policy provides maximum protection and additional benefits. 
